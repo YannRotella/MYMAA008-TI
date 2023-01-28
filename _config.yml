@@ -1,0 +1,81 @@
+# Settings
+permalink: pretty
+
+# About
+title: "Théorie de l'Information"
+tagline: M1 AA
+authors:
+  - name: Yann Rotella
+    url: 'https://rotella.fr/'
+created: 2023
+license:
+  name: Creative Commons 4.0 Attribution-ShareAlike
+  shortname: CC-BY-SA 4.0
+  url: http://creativecommons.org/licenses/by-sa/4.0/
+  badge: http://i.creativecommons.org/l/by-sa/4.0/80x15.png
+  
+# Default configuration for pages.
+# Can be used to activate addons on all pages.
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: default
+      addons:
+        favicon: yes
+        mathjax: yes
+  - scope:
+      path: '_tds'
+    values:
+      layout: article
+      addons:
+        style_goodies: yes
+
+# Collections
+collections:
+  # Leave that addons collection like this
+  # if you want to use addons
+  addons:
+    output: true
+    permalink: /:collection/:path:output_ext
+  # Other collections. See Jekyll docs.
+  tds:
+    name:
+      one: TD
+      many: TDs
+    icon: file-text-o
+    output: true
+    permalink: /:collection/:path
+
+create:
+  collections:
+    - key: tds
+      template: Votre Markdown ici
+    
+kramdown:
+  parse_block_html: true
+
+prose:
+  ignore:
+    - _addons
+    - _includes
+    - _layouts
+    - .gitignore
+    - _config.yml
+  media: assets
+  metadata:
+    '':
+      - name: 'layout'
+        field:
+          element: 'text'
+          value: 'post'
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'Sans titre'
+          
+# SASS configuration.
+# Better not touch this
+sass:
+  sass_dir: assets/css
+  style: compressed
