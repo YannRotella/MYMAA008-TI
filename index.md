@@ -10,7 +10,7 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
 
 **Serveur pour les TPs:** [https://jupyter.ens.uvsq.fr/](https://jupyter.ens.uvsq.fr/)
 
-
+**Poly du cours:** [Poly](tds/poly.pdf)
 
 ## Calendrier
 
@@ -19,24 +19,24 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
 **Introduction et mesure de l'information**
    - Aperçu du cours
    - Probabilités et distributions
-   - Définitions (entropie, information, incertitude)
+   - Définitions (Entropie, Information, Incertitude)
    - Applications numériques (TD)
+   - [TD1](tds/TD1.pdf)
+   - [Article Shannon](tds/shannon.pdf)
 
 
 #### 13 février 
 
-**Mesure de l'information (suite)**
+**Mesure de l'information (suite) et codage de source (début)**
    - Propriétes
-   - Divergence de Kullback-Leibler
    - Processus
+   - Codes et codages: définitions et premières constructions
    - Suite TD 1
 
    
 #### 20 février 
    
 **Codage de source**
-  - Définitions
-  - Efficacité d'un code ou d'un codage, longueur
   - Bornes (inégalités de Kraft, Mac Millan)
   - Premier théorème de Shannon
   - TP 1 - Algorithmes de codage
