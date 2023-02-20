@@ -40,6 +40,8 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
   - Bornes (inégalités de Kraft, Mac Millan)
   - Premier théorème de Shannon
   - TP 1 - Algorithmes de codage
+  - [TP1](tds/tp1/TP1.ipynb)
+  - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
 
 #### 27 février 
 
