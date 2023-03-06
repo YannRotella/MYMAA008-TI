@@ -51,7 +51,7 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
 
 **Codage de source (suite)**
    - Codages de Huffman adaptatif et Lempel-Ziv 
-   - TP 2 - Codage de Lempel-Ziv-Welsh
+   - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
     
 
 #### 13 mars 
