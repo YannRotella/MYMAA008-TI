@@ -65,7 +65,7 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
     - Codage de canal, capacité
     - Second théorème de Shannon
     - Codes
-    - TP 3 - Décodage
+    - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
 
 #### 27 mars 
 
