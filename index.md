@@ -4,7 +4,7 @@ title: Home
 
 ## Info pratiques
 
-Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J exceptionnellement le 20 mars)
+Cours & TD le lundi de 13h50 à 17h00, salle 2105 Fermat deux cours exceptionnellement les mardis même horaire 2205
 
 **Chargés de cours et TD :** [Yann Rotella](https://rotella.fr/)
 
@@ -14,7 +14,9 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
 
 ## Calendrier
 
-#### 6 février 
+Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
+
+#### 29 janvier 
 
 **Introduction et mesure de l'information**
    - Aperçu du cours
@@ -25,7 +27,7 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
    - [Article Shannon](tds/shannon.pdf)
 
 
-#### 13 février 
+#### 5 février 
 
 **Mesure de l'information (suite) et codage de source (début)**
    - Propriétes
@@ -34,7 +36,9 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
    - Suite TD 1
 
    
-#### 20 février 
+#### 12 février 
+
+**Controle continu début cours**
    
 **Codage de source**
   - Bornes (inégalités de Kraft, Mac Millan)
@@ -43,63 +47,57 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
   - [TP1](tds/tp1/TP1.ipynb)
   - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
 
-#### 27 février 
 
-**Vacances**
-
-#### 6 mars 
+#### 26 février 
 
 **Codage de source (suite)**
    - Codages de Huffman adaptatif et Lempel-Ziv 
    - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
     
 
-#### 13 mars 
+#### 4 mars 
 
-**1er contrôle continu**
+**Contrôle continu début cours**
    - Questions de cours + exercices
+   - Codage de canal - définitions
 
-#### 20 mars
+#### 11 mars
 
 **Codage de canal**
-    - Codage de canal, capacité
     - Second théorème de Shannon
     - Codes
     - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
 
-#### 27 mars 
+#### 18 mars 
+
+**Contrôle continu début cours**
 
 **Codes linéaires**
     - Bornes et propriétés
-    - Bons codes
     - TP 4 - Codes concaténés
     
+#### 2 avril - le mardi
 
-#### 3 avril
+**Codes linéaires suite**
+   - Bons codes 
+   - Constructions
 
-**Codes convolutifs**
-   - TP 5 - Codes convolutifs
+#### 8 avril
 
+**Contrôle Continu début cours**
 
-#### 10 avril 
+**Codes et décodages**
 
-**Dernier cours**
-   - Si temps, le CD audio, sinon travail et révisions des cours précédents
+#### 9 avril
 
-
-#### 17 avril 
-
-**Second CC**
+**Codes et applications**
 
 
 
 ## Modalités d'évaluation :
 
-13 mars - 13 h 50 : 1er contrôle continu (sur feuille) : 
 
-17 avril - 13 h 50 : 2nd contrôle continu (sur feuille + machine) :
-
-**Note finale :** 100% CC, où CC = 1/3 CC1 + 2/3 CC2
+**Note finale :** MAX ((CC + E)/2,E)
 
 
   
@@ -109,7 +107,7 @@ Cours & TD le lundi de 13h50 à 17h00, salle G101 Bâtiment Buffon (en Amphi J e
 
    - Olivier Rioul, Théorie de l'Information et du codage, 2007
    - Thomas M. Cover and Joy A. Thomas. Elements of Information Theory, 2001
-   - [Le poly du cours](tds/)
+   - [Le poly du cours](tds/poly.pdf)
    - [Définition axiomatique de l'entropie](https://arrowtheory.com/pub/notes/025-faddeev-entropy.html)
    - [Le poly de J. Lavauzelle - Paris 13](https://www.math.univ-paris13.fr/~lavauzelle/teaching/2020-21/docs/TI-poly-cours.pdf)
    
