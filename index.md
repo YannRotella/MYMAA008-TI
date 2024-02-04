@@ -101,8 +101,8 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
 ## Annales 
 #### 2023
-	- [CC1](annales/2023/CC1.pdf)
-	- [CC2](annales/2023/CC2.pdf)
+	- [CC1](annales/CC1.pdf)
+	- [CC2](annales/CC2.pdf)
   
 
 
