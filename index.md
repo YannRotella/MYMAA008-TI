@@ -22,17 +22,15 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Aperçu du cours
    - Probabilités et distributions
    - Définitions (Entropie, Information, Incertitude)
-   - Applications numériques (TD)
    - [TD1](tds/TD1.pdf)
    - [Article Shannon](tds/shannon.pdf)
 
 
 #### 5 février 
 
-**Mesure de l'information (suite) et codage de source (début)**
+**Mesure de l'information (suite)**
    - Propriétes
-   - Processus
-   - Codes et codages: définitions et premières constructions
+   - Applications numériques (TD)
    - Suite TD 1
 
    
@@ -41,25 +39,32 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 **Controle continu début cours**
    
 **Codage de source**
-  - Bornes (inégalités de Kraft, Mac Millan)
-  - Premier théorème de Shannon
-  - TP 1 - Algorithmes de codage
-  - [TP1](tds/tp1/TP1.ipynb)
-  - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
+   - Processus
+   - Codes et codages: définitions et premières constructions
+   - Bornes (inégalités de Kraft, Mac Millan)
 
 
 #### 26 février 
 
 **Codage de source (suite)**
    - Codages de Huffman adaptatif et Lempel-Ziv 
-   - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
+   - Premier théorème de Shannon
+   - TP 1 - Algorithmes de codage
+   - [TP1](tds/tp1/TP1.ipynb)
+   - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
+
     
 
 #### 4 mars 
 
 **Contrôle continu début cours**
    - Questions de cours + exercices
-   - Codage de canal - définitions
+
+**Suite et fin codage de source**
+   - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
+   
+**Codage de Canal**
+   - Définitions
 
 #### 11 mars
 
