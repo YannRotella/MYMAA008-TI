@@ -47,7 +47,6 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 #### 26 février 
 
 **Codage de source (suite)**
-   - Codages de Huffman adaptatif et Lempel-Ziv 
    - Premier théorème de Shannon
    - TP 1 - Algorithmes de codage
    - [TP1](tds/tp1/TP1.ipynb)
@@ -61,25 +60,25 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Questions de cours + exercices
 
 **Suite et fin codage de source**
+   - Codages de Huffman adaptatif et Lempel-Ziv 
    - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
-   
-**Codage de Canal**
-   - Définitions
 
 #### 11 mars
 
 **Codage de canal**
-    - Second théorème de Shannon
-    - Codes
-    - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
+   - Définitions (Capacité, code)
+   - Canaux symétriques
+   - Second théorème de Shannon
+   - Codes correcteurs d'erreurs (début)
+
 
 #### 18 mars 
 
 **Contrôle continu début cours**
 
-**Codes linéaires**
-    - Bornes et propriétés
-    - TP 4 - Codes concaténés
+**Décodage et codes linéaires**
+   - Bornes et propriétés
+   - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
     
 #### 2 avril - le mardi
 
@@ -87,16 +86,23 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Bons codes 
    - Constructions
 
+
 #### 8 avril
 
 **Contrôle Continu début cours**
 
 **Codes et décodages**
+   - [TP 4 - Codes concaténés](tds/tp4/TP4.ipynb)
 
 #### 9 avril
 
 **Codes et applications**
+   - D'autres codes
+   - Des exercices
 
+#### 29 avril
+
+**Examen final**
 
 
 ## Modalités d'évaluation :
