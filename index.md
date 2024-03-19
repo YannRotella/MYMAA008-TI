@@ -68,23 +68,25 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 **Codage de canal**
    - Définitions (Capacité, code)
    - Canaux symétriques
-   - Second théorème de Shannon
-   - Codes correcteurs d'erreurs (début)
+
 
 
 #### 18 mars 
 
 **Contrôle continu début cours**
 
-**Décodage et codes linéaires**
-   - Bornes et propriétés
-   - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
+**Codes correcteurs**
+   - Second théorème de Shannon
+   - Codes correcteurs d'erreurs (début)
+
     
 #### 2 avril - le mardi
 
 **Codes linéaires suite**
-   - Bons codes 
-   - Constructions
+   - Représentations
+   - Code dual
+   - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
+   - Code de Hamming
 
 
 #### 8 avril
@@ -92,13 +94,18 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 **Contrôle Continu début cours**
 
 **Codes et décodages**
-   - [TP 4 - Codes concaténés](tds/tp4/TP4.ipynb)
+   - Bornes (Singleton et Plotkin)
+   - Codes de Reed-Solomon
+   - Codes concaténés
+
 
 #### 9 avril
 
 **Codes et applications**
-   - D'autres codes
-   - Des exercices
+   - Décodage par syndrome
+   - Codes cycliques / codes BCH
+   - Exercices (si temps)
+   - [TP 4 - Codes concaténés](tds/tp4/TP4.ipynb)
 
 #### 29 avril
 
