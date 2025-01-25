@@ -8,7 +8,7 @@ Cours & TD le lundi de 13h50 à 17h00, salle G003 Germain
 
 **Chargés de cours et TD :** [Yann Rotella](https://rotella.fr/)
 
-**Serveur pour les TPs:** [jupyterhub Saclay](https://jupyterhub.ijclab.in2p3.fr
+**Serveur pour les TPs:** [jupyterhub Saclay](https://jupyterhub.ijclab.in2p3.fr)
 
 **Poly du cours:** [Poly](tds/poly.pdf)
 
