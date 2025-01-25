@@ -4,11 +4,11 @@ title: Home
 
 ## Info pratiques
 
-Cours & TD le lundi de 13h50 à 17h00, salle 2105 Fermat deux cours exceptionnellement les mardis même horaire 2205
+Cours & TD le lundi de 13h50 à 17h00, salle G003 Germain
 
 **Chargés de cours et TD :** [Yann Rotella](https://rotella.fr/)
 
-**Serveur pour les TPs:** [https://jupyter.ens.uvsq.fr/](https://jupyter.ens.uvsq.fr/)
+**Serveur pour les TPs:** [jupyterhub Saclay](https://jupyterhub.ijclab.in2p3.fr
 
 **Poly du cours:** [Poly](tds/poly.pdf)
 
@@ -16,7 +16,7 @@ Cours & TD le lundi de 13h50 à 17h00, salle 2105 Fermat deux cours exceptionnel
 
 Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
-#### 29 janvier 
+#### 27 janvier 
 
 **Introduction et mesure de l'information**
    - Aperçu du cours
@@ -26,7 +26,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - [Article Shannon](tds/shannon.pdf)
 
 
-#### 5 février 
+#### 3 février 
 
 **Mesure de l'information (suite)**
    - Propriétes
@@ -34,7 +34,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Suite TD 1
 
    
-#### 12 février 
+#### 10 février 
 
 **Controle continu début cours**
    
@@ -44,7 +44,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Bornes (inégalités de Kraft, Mac Millan)
 
 
-#### 26 février 
+#### 17 février 
 
 **Codage de source (suite)**
    - Premier théorème de Shannon
@@ -54,7 +54,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
     
 
-#### 4 mars 
+#### 3 mars 
 
 **Contrôle continu début cours**
    - Questions de cours + exercices
@@ -63,7 +63,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Codages de Huffman adaptatif et Lempel-Ziv 
    - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
 
-#### 11 mars
+#### 10 mars
 
 **Codage de canal**
    - Définitions (Capacité, code)
@@ -71,7 +71,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
 
 
-#### 18 mars 
+#### 24 mars 
 
 **Contrôle continu début cours**
 
@@ -80,7 +80,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Codes correcteurs d'erreurs (début)
 
     
-#### 2 avril - le mardi
+#### 7 avril
 
 **Codes linéaires suite**
    - Représentations
@@ -89,7 +89,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Code de Hamming
 
 
-#### 8 avril
+#### 8 avril (à décider)
 
 **Contrôle Continu début cours**
 
@@ -99,7 +99,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Codes concaténés
 
 
-#### 9 avril
+#### 14 avril
 
 **Codes et applications**
    - Décodage par syndrome
@@ -107,7 +107,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Exercices (si temps)
    - [TP 4 - Codes concaténés](tds/tp4/TP4.ipynb)
 
-#### 29 avril
+#### 28 avril
 
 **Examen final**
 
@@ -122,8 +122,12 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - [CC1](annales/CC1.pdf)
 	- [CC2](annales/CC2.pdf)
 	
-## Corrections 2024
+## 2024
    - [cc1](annales/cc1-2024.pdf)  
+   - [cc2](annales/cc2-2024.pdf) 
+   - [cc3](annales/cc3-2024.pdf) 
+   - [cc4](annales/cc4-2024.pdf) 
+   - [Examen]((annales/exam-2024.pdf) )
 
 
 ## Bibliographie
