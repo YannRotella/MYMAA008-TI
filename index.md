@@ -41,16 +41,15 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 **Codage de source**
    - Processus
    - Codes et codages: définitions et premières constructions
-   - Bornes (inégalités de Kraft, Mac Millan)
+
 
 
 #### 17 février 
 
 **Codage de source (suite)**
-   - Premier théorème de Shannon
-   - TP 1 - Algorithmes de codage
-   - [TP1](tds/tp1/TP1.ipynb)
-   - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
+   - Bornes (inégalités de Kraft, Mac Millan)
+
+
 
     
 
@@ -60,10 +59,22 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Questions de cours + exercices
 
 **Suite et fin codage de source**
-   - Codages de Huffman adaptatif et Lempel-Ziv 
-   - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
+   - Premier théorème de Shannon
+   - TP 1 - Algorithmes de codage
+   - [TP1](tds/tp1/TP1.ipynb)
+   - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
+
 
 #### 10 mars
+
+**Suite Codage de source**
+   - Codages de Huffman adaptatif et Lempel-Ziv 
+   - Suite TP 1
+   - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
+
+
+
+#### 24 mars 
 
 **Codage de canal**
    - Définitions (Capacité, code)
@@ -71,27 +82,28 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
 
 
-#### 24 mars 
-
 **Contrôle continu début cours**
+
+
+    
+#### 7 avril
 
 **Codes correcteurs**
    - Second théorème de Shannon
    - Codes correcteurs d'erreurs (début)
+   - Code de Hamming
 
-    
-#### 7 avril
+**Exercices (TD)**
+
+
+#### 8 avril (Exceptionnellement mardi pour remplacement)
+
+**Contrôle Continu début cours**
 
 **Codes linéaires suite**
    - Représentations
    - Code dual
    - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
-   - Code de Hamming
-
-
-#### 8 avril (à décider)
-
-**Contrôle Continu début cours**
 
 **Codes et décodages**
    - Bornes (Singleton et Plotkin)
@@ -104,7 +116,6 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 **Codes et applications**
    - Décodage par syndrome
    - Codes cycliques / codes BCH
-   - Exercices (si temps)
    - [TP 4 - Codes concaténés](tds/tp4/TP4.ipynb)
 
 #### 28 avril
