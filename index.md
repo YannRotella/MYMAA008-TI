@@ -138,7 +138,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - [cc2](annales/cc2-2024.pdf) 
    - [cc3](annales/cc3-2024.pdf) 
    - [cc4](annales/cc4-2024.pdf) 
-   - [Examen]((annales/exam-2024.pdf) )
+   - [Examen](annales/exam-2024.pdf)
 
 
 ## Bibliographie
