@@ -4,11 +4,9 @@ title: Home
 
 ## Info pratiques
 
-Cours & TD le lundi de 13h50 à 17h00, salle G003 Germain
+Cours & TD le lundi de 13h50 à 17h00, salle G107 Germain (Modulo quelques séances)
 
 **Chargés de cours et TD :** [Yann Rotella](https://rotella.fr/)
-
-**Serveur pour les TPs:** [jupyterhub Saclay](https://jupyterhub.ijclab.in2p3.fr)
 
 **Poly du cours:** [Poly](tds/poly.pdf)
 
@@ -16,17 +14,17 @@ Cours & TD le lundi de 13h50 à 17h00, salle G003 Germain
 
 Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
-#### 27 janvier 
+#### 9 février 
 
 **Introduction et mesure de l'information**
    - Aperçu du cours
    - Probabilités et distributions
    - Définitions (Entropie, Information, Incertitude)
-   - [TD1](tds/TD1.pdf)
+   - [TD 1 (et 2)](tds/01_TD.pdf)
    - [Article Shannon](tds/shannon.pdf)
 
 
-#### 3 février 
+#### 16 février 
 
 **Mesure de l'information (suite)**
    - Propriétes
@@ -34,99 +32,72 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Suite TD 1
 
    
-#### 10 février 
-
-**Controle continu début cours**
-   
+#### 23 février 
+  
 **Codage de source**
    - Processus
    - Codes et codages: définitions et premières constructions
+   - TP Huffman (TBA)
+   - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
 
-
-
-#### 17 février 
+#### 9 mars 
 
 **Codage de source (suite)**
    - Bornes (inégalités de Kraft, Mac Millan)
+   - TD 3
 
-
-
-    
-
-#### 3 mars 
-
-**Contrôle continu début cours**
-   - Questions de cours + exercices
+#### 16 mars 
 
 **Suite et fin codage de source**
    - Premier théorème de Shannon
-   - TP 1 - Algorithmes de codage
-   - [TP1](tds/tp1/TP1.ipynb)
-   - Fichiers: [candide](tds/tp1/candide.txt) [cyrano](tds/tp1/cyrano.txt) [extrait](tds/tp1/extrait.txt) [hamlet](tds/tp1/hamlet.txt)
+   - TP Lempel-Ziv (et huffman adaptatif ?)
 
-
-#### 10 mars
-
-**Suite Codage de source**
-   - Codages de Huffman adaptatif et Lempel-Ziv 
-   - Suite TP 1
-   - TP 2 - [Codage de Lempel-Ziv-Welsh](tds/tp2/TP2.ipynb)
-
-
-
-#### 24 mars 
+#### 23 mars
 
 **Codage de canal**
    - Définitions (Capacité, code)
    - Canaux symétriques
+   - TD Capacité
 
-
-
-**Contrôle continu début cours**
-
-
-    
-#### 7 avril
+#### 13 avril 
 
 **Codes correcteurs**
    - Second théorème de Shannon
    - Codes correcteurs d'erreurs (début)
    - Code de Hamming
+   - Décodage - inégalités
+   - TP nordstrom Robinson
 
-**Exercices (TD)**
-
-
-#### 8 avril (Exceptionnellement mardi pour remplacement)
-
-**Contrôle Continu début cours**
+#### 17 avril
 
 **Codes linéaires suite**
    - Représentations
    - Code dual
-   - [TP 3 - Décodage](tds/tp3/TP3.ipynb)
 
 **Codes et décodages**
    - Bornes (Singleton et Plotkin)
    - Codes de Reed-Solomon
    - Codes concaténés
 
-
-#### 14 avril
+#### 20 avril
 
 **Codes et applications**
    - Décodage par syndrome
    - Codes cycliques / codes BCH
-   - [TP 4 - Codes concaténés](tds/tp4/TP4.ipynb)
 
-#### 28 avril
+#### 24 avril
 
-**Examen final**
+** Séance retour révision et codes avancés**
+
+    
+#### 7 mai
+
+** Examen **
 
 
 ## Modalités d'évaluation :
 
-
-**Note finale :** MAX ((CC + E)/2,E)
+La note finale est maintenant la note à l'examen. Il n'y a plus de contrôles continus.
 
 ## Annales 
 #### 2023
