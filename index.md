@@ -122,7 +122,9 @@ La note finale est maintenant la note à l'examen. Il n'y a plus de contrôles c
    - Thomas M. Cover and Joy A. Thomas. Elements of Information Theory, 2001
    - [Le poly du cours](tds/poly.pdf)
    - [Définition axiomatique de l'entropie](https://arrowtheory.com/pub/notes/025-faddeev-entropy.html)
-   - [Le poly de J. Lavauzelle - Paris 13](https://www.math.univ-paris13.fr/~lavauzelle/teaching/2020-21/docs/TI-poly-cours.pdf)
+   - [Le poly de J. Lavauzelle - Paris 13](https://www.lvzl.fr/teaching/2023-24/docs/ti/poly-cours.pdf)
+   - [Le Poly de G. Zémor](https://www.math.u-bordeaux.fr/~gzemor/TI.pdf)
+   - [English course of T. Debris Alazard](https://tdalazard.io/infoTheory.html)
    
 
 
