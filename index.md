@@ -20,7 +20,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
    - Aperçu du cours
    - Probabilités et distributions
    - Définitions (Entropie, Information, Incertitude)
-   - [TD 1 (et 2), entropie et information](tds/01_TD.pdf)
+   - [TD 1 Partie 1, entropie et information](tds/01_TD.pdf)
    - [Article Shannon](tds/shannon.pdf)
 
 
@@ -29,8 +29,8 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 **Mesure de l'information (suite)**
    - Propriétes
    - Processus
-   - Applications numériques (TD)
-   - Suite TD 1
+   - Codage de source - définitions
+   - TD 1 - Partie 2 
 
    
 #### 23 février 
