@@ -44,13 +44,13 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
 **Codage de source (suite)**
    - Bornes (inégalités de Kraft, Mac Millan)
-   - TD 3
+   - [TD 2 - Codage de Source](tds/O2_TD.pdf)
 
 #### 16 mars 
 
 **Suite et fin codage de source**
    - Premier théorème de Shannon
-   - TP Lempel-Ziv (et huffman adaptatif ?)
+   - [TP Lempel-Ziv](tds/tp2/TP2.ipynb)
 
 #### 23 mars
 
