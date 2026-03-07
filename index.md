@@ -44,7 +44,7 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
 **Codage de source (suite)**
    - Bornes (inégalités de Kraft, Mac Millan)
-   - [TD 2 - Codage de Source](tds/O2_TD.pdf)
+   - [TD 2 - Codage de Source](tds/02_TD.pdf)
 
 #### 16 mars 
 
