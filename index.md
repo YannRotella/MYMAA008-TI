@@ -4,7 +4,7 @@ title: Home
 
 ## Info pratiques
 
-Cours & TD le lundi de 13h50 à 17h00, salle G107 Germain (Modulo quelques séances)
+Cours & TD le lundi de 13h50 à 17h00, salle G107 Germain (Modulo quelques séances: en Avril il y a deux séances les vendredis)
 
 **Chargés de cours et TD :** [Yann Rotella](https://rotella.fr/)
 
@@ -48,46 +48,49 @@ Le planning ci-dessous est prévisionnel et est susceptible d'être modifié.
 
 #### 16 mars 
 
-**Suite et fin codage de source**
+**Suite codage de source**
    - Premier théorème de Shannon
-   - [TP Lempel-Ziv](tds/tp2/TP2.ipynb)
+   - TD - exercices
 
 #### 23 mars
 
-**Codage de canal**
-   - Définitions (Capacité, code)
-   - Canaux symétriques
-   - TD Capacité
+**Fin codage de Source**
+   - Codage de suites d'entiers naturels et TD
+   - [TP Lempel-Ziv](tds/tp2/TP2.ipynb)
 
-#### 13 avril 
+#### 13 avril
+**Codage de Canal**
+   - Définitions
+   - Canaux symétriques
+   - [TD 3 - Capacité](tds/03_TD.pdf)
+   - Codes et Taux d'erreur résiduel
+   - Second théorème de Shannon (énoncé)
+
+#### 17 avril 
 
 **Codes correcteurs**
-   - Second théorème de Shannon
    - Codes correcteurs d'erreurs (début)
-   - Code de Hamming
-   - Décodage - inégalités
-   - TP nordstrom Robinson
-
-#### 17 avril
-
-**Codes linéaires suite**
-   - Représentations
-   - Code dual
-
-**Codes et décodages**
-   - Bornes (Singleton et Plotkin)
-   - Codes de Reed-Solomon
-   - Codes concaténés
+   - Espace métrique de Hamming
+   - Décodage par vraisemblance maximale
+   - Codes linéaires - représentations
+   - [TP nordstrom Robinson](tds/tp3/TP3.ipynb)
 
 #### 20 avril
 
-**Codes et applications**
-   - Décodage par syndrome
-   - Codes cycliques / codes BCH
+**Codes linéaires suite**
+   - Code dual
+   - Codes de Hamming
+   - Bornes (Singleton et Plotkin)
+   - Codes de Reed-Solomn
+   - [TD Codes](tds/04_TD.pdf)
 
 #### 24 avril
 
-** Séance retour révision et codes avancés**
+**Décodage et applications**
+   - Décodage par syndrome
+   - Codes cycliques / codes BCH
+   - Décodage des codes BCH
+   - Suite TD Codes
 
     
 #### 7 mai
